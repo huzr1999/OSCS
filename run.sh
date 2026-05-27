@@ -1,4 +1,6 @@
 
+export MODEL_SAVE_PATH=./models
+
 for method in OSCS; do
 	for score_name in md badacts; do
 		for dataset_name in agnews; do
