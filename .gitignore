@@ -1,0 +1,9 @@
+scores/**
+results/**
+__pycache__
+*.pyc
+poison_data/**/dirty
+poison_data/**/mix
+poison_data/**/clean
+poison_data/**/test-detect.csv
+.venv
